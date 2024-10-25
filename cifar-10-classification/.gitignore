@@ -1,0 +1,52 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data Files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.npz
+
+# Model Checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Cache files
+*.pkl
+*.cache
+
+# Dependency directories
+pip-log.txt
+pip-selfcheck.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE or Editor Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Other Python-related files
+*.egg-info/
+dist/
+build/
